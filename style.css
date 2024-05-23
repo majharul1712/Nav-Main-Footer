@@ -1,0 +1,16 @@
+body {
+    background-color: skyblue;
+    width: 80%;
+    margin:auto
+  }
+  nav a{
+    background-color: khaki;
+    column-rule-color:  brown;
+  }
+  section{background-color: skyblue;
+margin: 10px;}
+section div {background-color: solid khaki;}
+h2{background-color: blanchedalmond;}
+h3{background-color: orange;}
+footer {background-color: black;
+color: blue;}
